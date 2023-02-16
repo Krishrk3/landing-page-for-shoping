@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to bottom right, #529aec, #d13d1b);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CartContainer{
+    width: 70%;
+    height: 90%;
+    background-color: #f1f7f7;
+    border-radius: 20px;
+    box-shadow: 30px 30px 30px #14141433;
+}
+.head{
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    text-align: center;
+}
+
+.content{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    align-items: baseline;
+}
